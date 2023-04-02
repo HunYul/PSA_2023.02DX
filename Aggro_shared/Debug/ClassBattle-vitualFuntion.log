@@ -1,0 +1,11 @@
+﻿  AgrroRPG.cpp
+  Archer.cpp
+  Creature.cpp
+C:\Users\박선아\Downloads\ClassBattle-vitualFuntion\ClassBattle-vitualFuntion\Creature.cpp(5,2): error C2084: 'Creature::Creature(int,int,std::string)' 함수에 이미 본문이 있습니다.
+C:\Users\박선아\Downloads\ClassBattle-vitualFuntion\ClassBattle-vitualFuntion\Creature.h(7): message : '{ctor}'의 이전 정의를 참조하십시오.
+  Knight.cpp
+  Mage.cpp
+  Monster.cpp
+  Player.cpp
+  SoundManager.cpp
+  코드를 생성하고 있습니다...
