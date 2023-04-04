@@ -1,0 +1,10 @@
+﻿  RectCollider.cpp
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.cpp(37,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.cpp(37,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.cpp(37,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.cpp(37,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WIN_API_202302.cpp
+  코드를 생성하고 있습니다...
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.h(22): error C4716: 'RectCollider::Left': 값을 반환해야 합니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.h(23): error C4716: 'RectCollider::Right': 값을 반환해야 합니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\RectCollider.h(24): error C4716: 'RectCollider::Top': 값을 반환해야 합니다.
