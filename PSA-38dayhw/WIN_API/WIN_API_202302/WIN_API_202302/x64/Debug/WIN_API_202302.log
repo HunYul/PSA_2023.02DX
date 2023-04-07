@@ -1,0 +1,6 @@
+﻿  CircleCollider.cpp
+C:\Users\박선아\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\CircleCollider.cpp(29,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박선아\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\CircleCollider.cpp(29,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박선아\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\CircleCollider.cpp(29,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박선아\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\WIN_API_202302\Math\CircleCollider.cpp(29,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WIN_API_202302.vcxproj -> C:\Users\박선아\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\x64\Debug\WIN_API_202302.exe
