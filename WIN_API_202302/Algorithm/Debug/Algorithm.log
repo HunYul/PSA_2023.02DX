@@ -1,0 +1,9 @@
+﻿  BST.cpp
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\Algorithm\BST.cpp(63,2): error C2561: 'BinarySearchTree::Search': 함수는 값을 반환해야 합니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\Algorithm\BST.cpp(60): message : 'BinarySearchTree::Search' 선언을 참조하십시오.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\Algorithm\BST.cpp(88,3): error C2561: 'BinarySearchTree::Min': 함수는 값을 반환해야 합니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\Algorithm\BST.cpp(85): message : 'BinarySearchTree::Min' 선언을 참조하십시오.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\Algorithm\BST.cpp(97,3): error C2561: 'BinarySearchTree::Max': 함수는 값을 반환해야 합니다.
+C:\Users\user\Downloads\DX2023_02-main\WIN_API\WIN_API_202302\Algorithm\BST.cpp(94): message : 'BinarySearchTree::Max' 선언을 참조하십시오.
+  BSTMain.cpp
+  코드를 생성하고 있습니다...
